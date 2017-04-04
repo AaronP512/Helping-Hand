@@ -1,0 +1,17 @@
+#demo-page :not(INPUT):not(TEXTAREA) {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+
+}
+
+.ui-block-a, .ui-block-b, .ui-block-c {
+    background-color: lightgray;
+    border: 1px solid black;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+
+}

@@ -1,0 +1,16 @@
+#logo
+{
+display: block;
+height:auto;
+	width: 75%;
+	border: 0;
+	margin : auto;
+
+}
+
+#menu-list
+{
+display: block;
+margin-top: 10%;
+height:auto;
+}
