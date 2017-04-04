@@ -30,9 +30,4 @@ One can call those organization, donate item using email requests and also they 
 
 This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
-##screenshots
-# ScreenShots
-![alt text](/screenshots/1.png = 250x250 "Home Screen")
-![alt text](/screenshots/2.PNG "donate Screen")
-![alt text](/screenshots/3.PNG "info Screen")
-![alt text](/screenshots/4.PNG "moreinfo Screen")
+
