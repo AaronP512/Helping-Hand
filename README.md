@@ -32,7 +32,7 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 
 ##screenshots
 # ScreenShots
-![alt text](/screenshots/1.PNG "Home Screen")
+![alt text](/screenshots/1.png "Home Screen")
 ![alt text](/screenshots/2.PNG "donate Screen")
 ![alt text](/screenshots/3.PNG "info Screen")
 ![alt text](/screenshots/4.PNG "moreinfo Screen")
