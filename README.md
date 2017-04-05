@@ -1,7 +1,6 @@
 # Helping Hand
 
-Mobile app to help orphanage organizations. User can donate and contact through app to organization. Edit
-Add topics
+Mobile app to help orphanage organizations. User can donate and contact through app to organization.
 
 ## Geeting started
 To run this application open index.html in the browser and procced through the 
