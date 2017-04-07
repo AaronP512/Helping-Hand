@@ -4,7 +4,7 @@ Mobile app to help orphanage organizations. User can donate and contact through 
 
 ## Geeting started
 To run this application open index.html in the browser and procced through the 
-instruction
+instructions.
 
 ### Prerequisites
 
