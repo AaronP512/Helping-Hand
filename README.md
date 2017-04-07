@@ -25,6 +25,12 @@ user can see the list of orphanage organization which are present near his area.
 Also,
 One can call those organization, donate item using email requests and also they can see the location of organization through map
 
+## Authors
+https://github.com/swap8
+https://github.com/vinay008
+https://github.com/khushboomantri
+
+
 ## License
 
 This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
