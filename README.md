@@ -27,13 +27,13 @@ One can call those organization, donate item using email requests and also they 
 
 ## Authors
 ````
-https://github.com/swap8
+https://github.com/swap8          - Swapnil Naik
 ````
 ````
-https://github.com/vinay008
+https://github.com/vinay008       - Vinay Maurya
 ````
 ````
-https://github.com/khushboomantri
+https://github.com/khushboomantri - Khushboo Mantri
 ````
 
 ## License
