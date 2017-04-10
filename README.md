@@ -33,6 +33,9 @@ https://github.com/swap8                          - Swapnil Naik
 https://github.com/vinay008                       - Vinay Maurya
 ````
 ````
+https://github.com/AaronP512                      - Aaron Pereira
+````
+````
 https://github.com/khushboomantri                 - Khushboo Mantri
 ````
 
